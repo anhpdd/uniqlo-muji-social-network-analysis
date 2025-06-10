@@ -13,8 +13,8 @@ This project presents a comprehensive analysis of the digital strategies of two 
   - Identify strengths and opportunities in digital marketing strategies
 
 ## Data Sources
-- Publicly available social media data from TikTok and Instagram accounts of Uniqlo Malaysia and Muji Malaysia
-- User comments, likes, shares, and follower networks
+- Apify web scraper social media data from TikTok and Instagram accounts of Uniqlo Malaysia and Muji Malaysia
+- User comments, likes, and influencers networks
 
 ## Tools & Technologies
 - Python (for data processing and analysis)
